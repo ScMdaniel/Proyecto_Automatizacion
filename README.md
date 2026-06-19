@@ -279,5 +279,79 @@ XblGameSave	Manual	Stopped
 XboxGipSvc	Manual	Stopped
 XboxNetApiSvc	Manual	Stopped
 
-
-
+RECOMENDADO
+---------------
+AarSvc_def3c2b = Manual
+ADPSvc = Manual
+ALG = Manual
+AppIDSvc = Manual
+Appinfo = Manual
+AppReadiness = Manual
+AppXSvc = Manual, salvo que uses Microsoft Store con frecuencia
+ApxSvc = Manual
+AudioEndpointBuilder = Automatic
+Audiosrv = Automatic
+autotimesvc = Manual
+AxInstSV = Manual
+BcastDVRUserService_def3c2b = Disabled
+BDESVC = Manual
+BFE = Automatic
+BITS = Manual
+BluetoothUserService_def3c2b = Manual
+brave = Manual
+BraveElevationService = Manual
+bravem = Manual
+BrokerInfrastructure = Automatic
+BTAGService = Manual
+BthAvctpSvc = Manual
+bthserv = Manual, o Automatic si el Bluetooth no reconecta bien
+camsvc = Automatic
+CaptureService_def3c2b = Manual
+cbdhsvc_def3c2b = Manual
+CDPSvc = Manual
+CDPUserSvc_def3c2b = Manual
+CertPropSvc = Manual
+ClickToRunSvc = Manual
+ClipSVC = Manual
+CloudBackupRestoreSvc_def3c2b = Manual, detenido si no usas copia en la nube
+COMSysApp = Manual
+ConsentUxUserSvc_def3c2b = Manual
+CoreMessagingRegistrar = Automatic
+cphs = Manual
+cplspcon = Automatic
+CredentialEnrollmentManagerUserSvc_def3c2b = Manual
+CryptSvc = Automatic
+DcomLaunch = Automatic
+dcsvc = Manual
+defragsvc = Manual
+DeviceAssociationBrokerSvc_def3c2b = Manual
+DeviceAssociationService = Manual
+DeviceInstall = Manual
+DevicePickerUserSvc_def3c2b = Manual
+DevicesFlowUserSvc_def3c2b = Manual
+DevQueryBroker = Manual
+Dhcp = Automatic
+diagsvc = Manual
+DiagTrack = Disabled, o Manual si prefieres algo más conservador
+DispBrokerDesktopSvc = Automatic
+DisplayEnhancementService = Manual
+DmEnrollmentSvc = Manual
+dmwappushservice = Disabled
+Dnscache = Automatic
+DoSvc = Manual
+dot3svc = Manual
+DPS = Manual
+DsmSvc = Manual
+DsSvc = Manual
+DusmSvc = Manual
+EapHost = Manual
+edgeupdate = Manual
+edgeupdatem = Manual
+EFS = Manual
+embeddedmode = Manual
+EntAppSvc = Manual
+EventLog = Automatic
+EventSystem = Automatic
+fdPHost = Manual
+FDResPub = Manual
+fhsvc = Disabled si no usas Historial de archivos / Manual si quieres conservarlo
